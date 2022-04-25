@@ -1,0 +1,16 @@
+[
+    {"id": 1, "marca": "Adidas", "genero": "masculino", "nombre": "Run Falcon", "precio": 7999, "img":"https://images-na.ssl-images-amazon.com/images/I/81JqLi-AQGL._AC_UX395_.jpg"},
+    {"id": 2, "marca": "Adidas", "genero": "masculino", "nombre": "Fluid street", "precio": 8999, "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/7a6b6d0463544cb78c21ac3300abdaf6_9366/Zapatillas_Fluidstreet_Negro_FY8094_01_standard.jpg"},
+    {"id": 3, "marca": "Nike", "genero": "masculino", "nombre": "Revolution 5", "precio": 7999, "img":"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6f2061d6-a186-4402-aed4-458365f0ccbc/calzado-de-running-revolution-5-ZXqS6C.png"},
+    {"id": 4, "marca": "Nike", "genero": "masculino", "nombre": "Air Max Alpha Trainer", "precio": 14499, "img":"https://eashoes.com.mx/wp-content/uploads/2019/12/AA7060301.jpg"},
+    {"id": 5, "marca": "Puma", "genero": "masculino", "nombre": "Flyer Runner", "precio": 7399, "img":"https://solodeportes-9bvc3m9qgmf6g9x.stackpathdns.com/media/catalog/product/cache/faae2c37ab1d315e4b697a7f62b421b7/6/4/640010192740010-1.jpg"},
+    {"id": 6, "marca": "Puma", "genero": "masculino", "nombre": "Cel Vive", "precio": 10999, "img":"https://www.thenextsole.com/storage/images/194358-03.png"},
+    {"id": 7, "marca": "Adidas", "genero": "femenino", "nombre": "Galaxy 5", "precio": 7499, "img":"https://www.zapatos.es/media/catalog/product/cache/image/650x650/0/0/0000206758026_01_rz.jpg"},
+    {"id": 8, "marca": "Adidas", "genero": "femenino", "nombre": "QT Racer Sport", "precio": 8999, "img":"https://home.ripley.com.pe/Attachment/WOP_5/2026271444655/2026271444655_2.jpg"},
+    {"id": 9, "marca": "Nike", "genero": "femenino", "nombre": "WM Revolution 5", "precio": 9999, "img":"https://www.zapatos.es/media/catalog/product/cache/image/650x650/0/0/0000208425407_06_rz.jpg"},
+    {"id": 10, "marca": "Nike", "genero": "femenino", "nombre": "React Miler", "precio": 21999, "img":"https://bikila.com/20569/nike-react-miler.jpg"},
+    {"id": 11, "marca": "Puma", "genero": "femenino", "nombre": "Cia Mode Leo", "precio": 9399, "img":"https://www.topshoes.gr/wp-content/uploads/2020/12/gynaikeiaathlitikapuma37321702mayroa.jpg"},
+    {"id": 12, "marca": "Puma", "genero": "femenino", "nombre": "Soft Re Vital", "precio": 9499, "img":"https://images-na.ssl-images-amazon.com/images/I/71gOIRo56sL._UL1500_.jpg"},
+    {"id": 14, "marca": "Fila", "genero": "femenino", "nombre": "F-Loop", "precio": 6990, "img":"https://statics.glamit.com.ar/media/catalog/product/f/i/fila_f02st004068_156_00.jpg"},
+    {"id": 15, "marca": "Rebook", "genero": "masculino", "nombre": "Flashfilm 3.0", "precio": 12499, "img":"https://assets.reebok.com/images/w_600,f_auto,q_auto/5b2ae8ba4790481c8b32abc2010a0bdd_9366/REEBOK_FLASHFILM_3.0_Negro_FU8754_01_standard.jpg"}
+]
